@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api', // Connects to our backend
+    baseURL: 'https://recipe-sharing-platfrom-using-ai-nu-pi.vercel.app/api', // Connects to our backend
 });
 
 // Interceptor to add JWT token to requests if it exists
