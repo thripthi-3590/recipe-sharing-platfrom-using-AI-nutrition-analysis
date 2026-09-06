@@ -27,6 +27,10 @@ This project is a cooking-focused application where users can:
 
 The goal of the project is to make meal planning and cooking easier, smarter, and more personalized by merging recipe management with AI assistance and health-focused tracking.
 
+## Live demo
+
+https://recipe-sharing-platfrom-using-ai-nu.vercel.app/
+
 ## Run the project
 
 Backend:
